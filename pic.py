@@ -24,7 +24,7 @@ def heart(x,y,size,startx,starty):
             correct=False
     return correct
 
-
+print("pic.png")
 for x in range(500):
     for y in range(500):
         if heart(y,x,100,250,250):
